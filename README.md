@@ -11,3 +11,8 @@ Some Of New Features In PHP 7
 8.  Constants Array
 9.  Throwables
 10. Group use declaration
+11. Catching Multiple Exceptions Types
+12. Class Constant Visibility Modifiers
+13. Iterable Pseudo-Type
+14. Nullable Types
+15. Void Return Types
