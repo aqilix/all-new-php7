@@ -19,7 +19,7 @@ Some Of New Features In PHP 7
 
 [9.  Throwables](../master/example/09-throwables.php) (PHP 7.0)
 
-[10. Group use Declaration](../master/example/10-group-use-statements.php) (PHP 7.1)
+[10. Group use Declaration](../master/example/10-group-use-statements.php) (PHP 7.0)
 
 [11. Catching Multiple Exceptions Types](../master/example/11-multiple-types-exception.php) (PHP 7.1)
 
