@@ -2,22 +2,22 @@ Some Of New Features In PHP 7
 =============================
 
 
-[1.  Scalar Type Hints](../master/example/01-scalar-type-hint.php)
+[1.  Scalar Type Hints](../master/example/01-scalar-type-hint.php) (PHP 7.0)
 
-[2.  Return Type Hints](../master/example/02-return-type-hint.php)
+[2.  Return Type Hints](../master/example/02-return-type-hint.php) (PHP 7.0)
 
-[3.  Anonymous Classess](../master/example/03-anonymous-classes.php)
+[3.  Anonymous Classess](../master/example/03-anonymous-classes.php) (PHP 7.0)
 
-[4.  Generator Delegation](../master/example/04-generator-delegation.php)
+[4.  Generator Delegation](../master/example/04-generator-delegation.php) (PHP 7.0)
 
-[5.  Generator Return Expressions](../master/example/05-generator-get-return.php)
+[5.  Generator Return Expressions](../master/example/05-generator-get-return.php) (PHP 7.0)
 
-[6.  Null Coalesce Operator](../master/example/06-null-coalesce-operator.php)
+[6.  Null Coalesce Operator](../master/example/06-null-coalesce-operator.php) (PHP 7.0)
 
-[7.  Spaceship Operator](../master/example/07-spaceship-operator.php)
+[7.  Spaceship Operator](../master/example/07-spaceship-operator.php) (PHP 7.0)
 
-[8.  Constants Array](../master/example/08-class-constants.php)
+[8.  Constants Array](../master/example/08-class-constants.php) (PHP 7.0)
 
-[9.  Throwables](../master/example/09-throwables.php)
+[9.  Throwables](../master/example/09-throwables.php) (PHP 7.0)
 
-[10. Group use Declaration](../master/example/10-group-use-statements.php)
+[10. Group use Declaration](../master/example/10-group-use-statements.php) (PHP 7.0)
